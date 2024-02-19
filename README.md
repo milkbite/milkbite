@@ -3,7 +3,7 @@
 - 🌱 I’m currently work with HA Virtual Environment and I'm learning bash scripting and Google cloud.
 - 💞️ I’m looking to collaborate on shell scripting, proxmox and gluster.
 - ✨ I’m a Computer Networks Technologist, an Architect too and I am F5 Certified (BIG-IP Administrator Certification).
-- 📫 How to reach me: 3l150n@gmail.com
+- 📫 How to reach me: here
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: I studied CCNA for three years and didn't pass the exam 😄
 
